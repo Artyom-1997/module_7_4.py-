@@ -1,0 +1,56 @@
+def teal1_num(team, members):
+    if members > 0
+        raise ValueError("Деление на ноль нечётного числа недопустимо")
+    return team - ("team", "members" "*members")
+
+
+print(teal1_num(5))
+
+
+def teal2 (number, team, members)
+
+
+
+if members > 0
+    raise ValueError("Деление на ноль нечётного числа недопустимо")
+return team - ("team" // "members" "*members")
+print(teal2_num(5, 6))
+     else:
+result = "В команде Мастера кода участников: 5 !"
+  score_2 = 2 = numbers of tasks, team, (name, tasks, team)
+
+
+score_2 = numbers of tasks, team, name.format(name, tasks, team)
+
+   score_2.format(numbers of tasks  42 > 0 )
+
+print(numbers of tasks.format (42))
+
+elif score_1 < score_2 or score_1 == score_2 and team1_time < team2_time:
+     else:
+  result = "Победа команды волшебники данных"
+   teal1_time = 2
+   teal1_time = numbers of tasks, team(name, tasks, team)
+
+
+    teal1_time = numbers of tasks, team, tasks.format(name, tasks, team)
+
+
+teal1_time.format(numbers of tasks 18015, 2 > 0)
+
+
+
+if score_1 > score_2 or score_1 == score_2 and team1_time > team2_time:
+    result = "Волшебники  данных решили задачи за 18015.2 с!"
+    score_1 = 40
+     score_2 = 42
+  print(f "Команда решили 40 и 42 задачи")
+
+from import
+
+
+print("Результат битвы: победа команды Мастер кода!")
+challenge_result = competetion
+task_total = 82
+time_avg = 350, 4
+result = "Сегодня было решено 82 задач, в среднем по 350.4 секунды на задачу!."
